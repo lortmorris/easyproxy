@@ -1,0 +1,7 @@
+{
+  "routes":{
+      "/google": "http://google.com:80",
+      "/ssc": "https://securityscorecard.com:443",
+      "/products": "http://lcboapi.com:80"
+  }
+}

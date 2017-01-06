@@ -1,0 +1,15 @@
+{
+  "name": "easyproxy",
+  "version": "1.0.0",
+  "description": "Gateway for SSC Public API",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Cesar Casas <cesarcasas@bsdsolutions.com.ar> (https://ar.linkedin.com/in/cesarcasas)",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.24.0",
+    "redis": "^2.6.3"
+  }
+}
